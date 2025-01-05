@@ -206,8 +206,8 @@ int stringToIntMidValue;
 
 //But i will try. Jump into class intToStringMid to see my solution, it will be similar as solution for string to integer.
 
-IntToStringMid itsMid = new IntToStringMid();
-Console.WriteLine(itsMid.Parse(0));
+//IntToStringMid itsMid = new IntToStringMid();
+//Console.WriteLine(itsMid.Parse(0));
 #endregion
 
 
