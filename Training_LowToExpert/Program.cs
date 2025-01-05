@@ -202,8 +202,12 @@ int stringToIntMidValue;
 #endregion
 
 #region integer to string
+//There are so many simple solutions how to convert int to string, that writing own converter seems stupid.
 
+//But i will try. Jump into class intToStringMid to see my solution, it will be similar as solution for string to integer.
 
+IntToStringMid itsMid = new IntToStringMid();
+Console.WriteLine(itsMid.Parse(0));
 #endregion
 
 
